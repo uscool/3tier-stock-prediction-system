@@ -10,13 +10,6 @@ A comprehensive AI-powered financial market analysis system that combines FinBER
 - Google Gemini AI for intelligent trading decisions
 - Portfolio-aware recommendations with position sizing
 
-### **Modern Web Interface**
-- Responsive web application with Bootstrap UI
-- User authentication and profile management
-- Real-time portfolio tracking and management
-- Interactive analysis dashboard
-- Automated scheduling system
-
 ### **Portfolio Management**
 - Multi-portfolio support with holdings tracking
 - Real-time price updates and P&L calculations
